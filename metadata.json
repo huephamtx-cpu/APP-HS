@@ -1,0 +1,7 @@
+{
+  "name": "CLASS 9/7 MANAGER – CÔ HUE PHAM",
+  "description": "Hệ thống Quản lý Lớp học Thông minh (AI Classroom Management System) dành cho Cô Hue Pham, Lớp 9/7, Năm học 2026–2027.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
